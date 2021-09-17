@@ -37,5 +37,4 @@ int(date)
         deathdate_list=death_date.split("-")
                 if today_date==deathdate_list[2]
 
-if __name__ == "__main__":
-    print("Try running daily_one_word.py first")
+
